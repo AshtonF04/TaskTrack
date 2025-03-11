@@ -1,0 +1,10 @@
+
+
+  VITE v6.2.1  ready in 226 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+/*! 🌼 daisyUI 5.0.0 */
+npm i -D daisyui@latest
+npm run dev
